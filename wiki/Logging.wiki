@@ -14,7 +14,7 @@ In this project, an open source logging utility, 'Apache Log4J', is used for all
 
  Logging does have its drawbacks. It can slow down an application. If too verbose, it can cause scrolling blindness. To alleviate these concerns, log4j is designed to be reliable, fast and extensible. Since logging is rarely the main focus of an application, the log4j API strives to be simple to understand and to use.
 
-For more information n Apache Log4j, visit the [logging.apache.org Apache Logging Homepage].
+For more information on Apache Log4j, visit the [http://logging.apache.org Apache Logging Homepage].
 
 =Enabling logging --=
 
