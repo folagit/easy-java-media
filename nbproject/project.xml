@@ -4,6 +4,7 @@
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
             <name>EasyJavaMedia</name>
+            <explicit-platform explicit-source-supported="true"/>
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
@@ -15,6 +16,7 @@
             <definitions>libraries\nblibraries.properties</definitions>
         </libraries>
         <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>ms</word>
             <word>wiki</word>
         </spellchecker-wordlist>
     </configuration>
